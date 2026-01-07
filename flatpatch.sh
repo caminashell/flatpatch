@@ -69,7 +69,7 @@ for APP in "${APPS[@]}"; do
 
   # Print process information for logging
   echo -e "\nApplication:" $APP
-  echo -e "String:" $PATCH"\n"
+  echo -e "Patch String (Parameters):" $PATCH"\n"
 
   # File pattern or extension to search for
   FILE_PATTERN="$APP.desktop"
