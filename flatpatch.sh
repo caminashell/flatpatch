@@ -22,7 +22,7 @@
 # !!! PLEASE READ BELOW BEFORE USING THIS SCRIPT !!! #
 
 # It may need sudo elevation to run, if links are not in a user accessible location.
-# It uses (echo, eval, grep, sed) but does not require any additional software to be installed.
+# It uses (echo, eval, find, grep, read, sed) but does not require any additional software to be installed.
 # It does not change any core application files.
 # It will require some configuration to process your links properly - see below.
 # It is not only for flatpak applications, but any application that uses a desktop file to launch.
